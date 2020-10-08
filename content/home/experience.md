@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Scientist"
+  company = "NTT Data Italia"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Milano"
+  date_start = "2020-05-10"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Anali di dati e modellazione di algoritmi di Machine Learning"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Laurea Magistrale Data Science"
+  company = "Univesità degli studi di Milano - Bicocca"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Milano"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Laurea Triennale Computer Science"
+  company = "Univesità degli studi di Milano - Bicocca"
+  company_url = ""
+  location = "Milano"
+  date_start = "2015-10-01"
+  date_end = "2018-10-25"
+  description = """Tesi: "Sensor Data Analytics and Data Visualization\" """
 
 +++
